@@ -103,3 +103,7 @@ task hello2 {
     }
 }
 ```
+
+# Gradle Link
+- [Command Line Interface](https://docs.gradle.org/5.6.2/userguide/command_line_interface.html)
+- [Plugins](https://docs.gradle.org/current/userguide/plugins.html)
